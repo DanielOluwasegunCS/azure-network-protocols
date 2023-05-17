@@ -65,7 +65,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/KlO4AT5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this image, we witness the process of creating a virtual machine (VM) within the expansive Microsoft Azure cloud computing platform. The scene unfolds within the Azure portal, where I am configuring the necessary settings to forge a Windows 10 VM.
+In this image, we witness the process of creating a virtual machine (VM) within the expansive Microsoft Azure cloud computing platform. This is within the Azure portal, where I am configuring the necessary settings to create a Windows 10 VM.
 </p>
 <br />
 
@@ -73,7 +73,7 @@ In this image, we witness the process of creating a virtual machine (VM) within 
 <img src="https://i.imgur.com/4EsMl1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This image encapsulates another intricate process of creating a VM within Microsoft Azure, but this time I am creating a linux VM showcasing the fusion of technology and creativity. It serves as a reminder of the remarkable opportunities provided by cloud computing.
+This image encapsulates another process of creating a VM within Microsoft Azure, but this time I am creating a linux VM. I am always reminded of the remarkable opportunities provided by cloud computing.
 </p>
 <br />
 
@@ -81,7 +81,7 @@ This image encapsulates another intricate process of creating a VM within Micros
 <img src="https://i.imgur.com/ZJJZB6w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This image displays the ping requests and replies within Wireshark while pinging a public website and the Linux VM from the Windows 10 VM. This allows you to analyze the network traffic and gain insights into the communication between your VM and the destination website/VM.
+This image displays the ping requests and replies within Wireshark while pinging a public website and the Linux VM from the Windows 10 VM. Wireshark allows you to analyze the network traffic and gain insights into the communication between your VM and the destination website/other VM.
 </p>
 <br />
 
@@ -89,7 +89,7 @@ This image displays the ping requests and replies within Wireshark while pinging
 <img src="https://i.imgur.com/8Aze0By.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this image, we delve into the realm of network analysis as we witness the process of observing Secure Shell (SSH) traffic within Wireshark, originating from a Windows 10 VM. The scene takes place within the Wireshark interface, where I am observing the intricacies of network packets. The screen presents an array of captured network packets, showing the SSH communication.
+In this image, we delve into the realm of network analysis as we see the process of observing Secure Shell (SSH) traffic within Wireshark, from a Windows 10 VM. I am still within the Wireshark interface, I am observing the intricacies of network packets. The screen presents an array of captured network packets, showing the SSH communication.
 </p>
 <br />
 
@@ -97,7 +97,7 @@ In this image, we delve into the realm of network analysis as we witness the pro
 <img src="https://i.imgur.com/qVs7QWD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this image, we explore the domain of network analysis by observing the process of monitoring Dynamic Host Configuration Protocol (DHCP) activity within Wireshark, using a Windows 10 virtual machine. I used the command line "ipconfig /renew" in order to observe the DHCP traffic/network packets. 
 </p>
 <br />
 
@@ -105,7 +105,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/U1Sf90E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this image, we venture into the domain of network analysis by observing the process of monitoring Domain Name System (DNS) activity within Wireshark, using a Windows 10 virtual machine. By using the command "nslookup (website domain name)" I am able to not only observe DNS traffic in Wireshark, I can also see the IP addresses of those websites, which I find so fascinating.
 </p>
 <br />
 
@@ -113,6 +113,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/nHRdwVM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this image, we inspect the domain of network analysis by observing the process of monitoring Remote Desktop Protocol (RDP) activity within Wireshark, using a Windows 10 virtual machine. Here, I didn't have to do much of anything to observe the RDP traffic because RDP is constantly showing me a live stream from one computer to another, therfore traffic is always being transmitted.
 </p>
 <br />
