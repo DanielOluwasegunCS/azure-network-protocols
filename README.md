@@ -62,7 +62,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/KHDiNkm.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6aSsKI8.png" height="300%" width="300%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this image, we witness the process of creating a virtual machine (VM) within the expansive Microsoft Azure cloud computing platform. This is within the Azure portal, where I am configuring the necessary settings to create a Windows 10 VM.
@@ -70,7 +70,7 @@ In this image, we witness the process of creating a virtual machine (VM) within 
 <br />
 
 <p>
-<img src="https://i.imgur.com/4EsMl1m.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4EsMl1m.png" height="400%" width="400%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This image encapsulates another process of creating a VM within Microsoft Azure, but this time I am creating a linux VM. I am always reminded of the remarkable opportunities provided by cloud computing.
